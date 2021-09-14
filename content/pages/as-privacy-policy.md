@@ -1,16 +1,17 @@
 ---
 template: page
-title: Account Surfer Privacy Policy
-slug: pages/as-privacy-policy
+title: Privacy Policy
+slug: pages/privacy-policy
 draft: false
+priority: 1
 ---
 Privacy Policy
 
 Effective date: July 30, 2019
 
-Account Surfer ("us", "we", or "our") operates the Account Surfer mobile application (the "Service").
+CoachMattBooth.com ("us", "we", or "our") operates the CoachMattBooth.com website (the "Service").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Account Surfer is created with the help of the Free Privacy Policy Generator.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for CoachMattBooth.com is created with the help of the Free Privacy Policy Generator.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -48,7 +49,7 @@ Security Cookies. We use Security Cookies for security purposes.
 
 Use of Data
 
-Account Surfer uses the collected data for various purposes:
+CoachMattBooth.com uses the collected data for various purposes:
 
 To provide and maintain the Service
 
@@ -72,17 +73,17 @@ If you are located outside Ukraine and choose to provide information to us, plea
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Account Surfer will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+CoachMattBooth.comwill take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 Disclosure Of Data
 
 Legal Requirements
 
-Account Surfer may disclose your Personal Data in the good faith belief that such action is necessary to:
+CoachMattBooth.com may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
 
-To protect and defend the rights or property of Account Surfer
+To protect and defend the rights or property of CoachMattBooth.com
 
 To prevent or investigate possible wrongdoing in connection with the Service
 
